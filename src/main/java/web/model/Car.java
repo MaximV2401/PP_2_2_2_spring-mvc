@@ -17,7 +17,7 @@ public class Car {
 
     private String series;
 
-
+    public Car() {}
 
     public Car(long id, String model, String series) {
         this.id = id;
